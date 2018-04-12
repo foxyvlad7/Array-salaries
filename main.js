@@ -97,3 +97,11 @@ var assertArraysEquals = (ar1, ar2) => {
 }
 
 assertArraysEquals([1,2], [1,2]);
+ 
+// assertEgual
+var assertArraysEguals = (ar'name:Ivan', ar'age:13')=> {
+    assertEgual(ar'name:Ivan'.length, ar'age:13'.length );
+	for (i = 0; i<name:Ivan'.length; i++){
+	     	assertEguals(ar'name:Ivan'[i], ar'age:13'[i] );
+     }
+}
